@@ -1,7 +1,7 @@
 # 😎 Hi, everyone. What a beautiful day! 👋
 
-## 🎈Innovative Web Developer.
-###🌱I am a🌱###
+## 🎈Innovative Computer Science Engineer
+###🌱I am a🌱
 - **Web Full-Stack Engineer**.
 - **Blockchain Developer**.
 - **Optimization Algorithm Developer**.
@@ -9,17 +9,17 @@
 <br />
 <br />
 
-###👀 I am also interested in 👀###
+###👀 I am also interested in 👀
 -  **Computer Vision**, **Embeded C**, **Digital Signal Process**, **Machine Learning**, **Digtal Electronic Design**, **...**
 <br />
 <br />
 
-###🥇Winner of Regional ICPC 2010🥇###
+###🥇Winner of Regional ICPC 2010🥇
 
 - I am always creative and innovative and try to complete projects in a short period of time.
 
 
-## 🤣 Languages and Tools:
+## 📚 Languages and Tools:
 >><img align="left" alt="JavaScript" height="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOcAsDAm2ZrRL_fZ3E_4F1599QOntov7WT2mPC_Fe7BkGX1DEbkPxioNNqh4Nl0hxxd_M&usqp=CAU" />
 <img align="left" alt="JavaScript" height="26px" src="https://masterprograming.com/wp-content/uploads/2019/03/c-programming-e1536069688313.png" />
 <img align="left" alt="JavaScript" height="26px" src="https://preview.redd.it/31b2ii8hchi31.jpg?auto=webp&s=309fe75e96212cf42c4120ca5adedaef52c41e01" />
