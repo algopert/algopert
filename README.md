@@ -1,7 +1,7 @@
 # 😎 Hi, everyone. What a beautiful day! 👋
 
 ## 🎈Innovative Computer Science Engineer
-###🌱I am a🌱
+### 🌱I am a🌱
 - **Web Full-Stack Engineer**.
 - **Blockchain Developer**.
 - **Optimization Algorithm Developer**.
@@ -9,12 +9,12 @@
 <br />
 <br />
 
-###👀 I am also interested in 👀
+### 👀 I am also interested in 👀
 -  **Computer Vision**, **Embeded C**, **Digital Signal Process**, **Machine Learning**, **Digtal Electronic Design**, **...**
 <br />
 <br />
 
-###🥇Winner of Regional ICPC 2010🥇
+### 🥇Winner of Regional ICPC 2010🥇
 
 - I am always creative and innovative and try to complete projects in a short period of time.
 
