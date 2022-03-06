@@ -2,10 +2,10 @@
 
 ## 🎈Innovative Computer Science Engineer
 ### 🌱I am a🌱
-- **Web Full-Stack Engineer**.
-- **Blockchain Developer**.
 - **Optimization Algorithm Developer**.
+- **Blockchain Developer**.
 - **Software Engineer**, specialized in **Javascript**, **Java**, **C/C++**, **Python**, **Matlab**,**...**.
+- **Web Full-Stack Engineer**.
 <br />
 <br />
 
