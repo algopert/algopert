@@ -1,22 +1,22 @@
 # 😎 Hi, everyone. What a beautiful day! 👋
 
 ## 🎈Innovative Web Developer.
->>🌱I am a🌱
->- **Web Full-Stack Engineer**.
->- **Blockchain Developer**.
->- **Optimization Algorithm Developer**.
->- **Software Engineer**, specialized in **Javascript**, **Java**, **C/C++**, **Python**, **Matlab**,**...**.
+###🌱I am a🌱###
+- **Web Full-Stack Engineer**.
+- **Blockchain Developer**.
+- **Optimization Algorithm Developer**.
+- **Software Engineer**, specialized in **Javascript**, **Java**, **C/C++**, **Python**, **Matlab**,**...**.
 <br />
 <br />
 
->>👀 I am also interested in 👀
->-  **Computer Vision**, **Embeded C**, **Digital Signal Process**, **Machine Learning**, **Digtal Electronic Design**, **...**
+###👀 I am also interested in 👀###
+-  **Computer Vision**, **Embeded C**, **Digital Signal Process**, **Machine Learning**, **Digtal Electronic Design**, **...**
 <br />
 <br />
 
->>**🥇Winner of Regional ICPC 2010🥇**
+###🥇Winner of Regional ICPC 2010🥇###
 
->- I am always creative and innovative and try to complete projects in a short period of time.
+- I am always creative and innovative and try to complete projects in a short period of time.
 
 
 ## 🤣 Languages and Tools:
