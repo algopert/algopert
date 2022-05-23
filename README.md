@@ -52,5 +52,7 @@
 
 ## 📫 How to reach me
 
-- **[SkyPe]** live:.cid.60c63e54e04685a8
+- **[Telegram]** @GoldenTurtle1013
+- **[Googlechat]** @Grasshopper1013@gmail.com
+
 <br />
