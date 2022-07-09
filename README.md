@@ -2,23 +2,19 @@
 
 ## 🤣 A Clever Computer Science Engineer 😂
 
-### 🌱I am a🌱
+### 🤔Who am I?🤔
 - **Optimization Algorithm Developer**.
 - **Blockchain Developer**.
-- **Software Engineer**, specialized in **Javascript**, **Java**, **C/C++**, **Python**, **Matlab**,**...**.
 - **Web Full-Stack Engineer**.
-<br />
-<br />
+- **Software Engineer**, specialized in **Javascript**, **Java**, **C/C++**, **Python**, **Matlab**,**...**.
+- **Web Automation & Scraping Expert
+- **Embeded Programmer
+- **...
 
-### 👀 I am also interested in 👀
--  **Computer Vision**, **Embeded C**, **Digital Signal Process**, **Machine Learning**, **Digtal Electronic Design**, **...**
 <br />
 <br />
 
 ### 🥇Winner of Regional ICPC 2010🥇
-
-- I am always creative and innovative and try to complete projects in a short period of time.
-
 
 ## 📚 Languages and Tools:
 >><img align="left" alt="JavaScript" height="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOcAsDAm2ZrRL_fZ3E_4F1599QOntov7WT2mPC_Fe7BkGX1DEbkPxioNNqh4Nl0hxxd_M&usqp=CAU" />
