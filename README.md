@@ -1,6 +1,6 @@
 # A clever person solves a problem. A wise person avoids it.
 
-## 🤣 Clever Computer Science Engineer 😂
+## 🤣 A Clever Computer Science Engineer 😂
 
 ### 🌱I am a🌱
 - **Optimization Algorithm Developer**.
