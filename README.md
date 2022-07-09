@@ -7,9 +7,9 @@
 - **Blockchain Developer**.
 - **Web Full-Stack Engineer**.
 - **Software Engineer**, specialized in **Javascript**, **Java**, **C/C++**, **Python**, **Matlab**,**...**.
-- **Web Automation & Scraping Expert
-- **Embeded Programmer
-- **...
+- **Web Automation & Scraping Expert**
+- **Embeded Programmer**
+- **...**
 
 <br />
 <br />
