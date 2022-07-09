@@ -1,7 +1,7 @@
-# 😎 Hi, Thanks for your visiting me! 👋
+#"A clever person solves a problem. A wise person avoids it.”
 
 ## 🎈Innovative Computer Science Engineer
-## Along with strong communication skills and an exemplary work ethic, I bring my hands-on experience with a wide range of programming languages. Having more than 15 years of experience in various software technology and knowledge domains ranging from bigscale back-end systems to Android native apps. Throughout my career, I am eager to take on new challenges and have worked on multiple agile teams as a core developer. I am passionate about software, consistently upgrading my skills and staying on top of new technologies. The Blockchain space has become very interesting for me, and for the last 4 years, recently, though, my focus has been directed mainly towards Blockchainrelated projects. I appreciate the importance of high-quality works as well as the need to meet scheduling demands.
+
 ### 🌱I am a🌱
 - **Optimization Algorithm Developer**.
 - **Blockchain Developer**.
