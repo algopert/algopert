@@ -18,7 +18,6 @@
 
 ## 📚 Languages and Tools:
 >><img align="left" alt="JavaScript" height="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOcAsDAm2ZrRL_fZ3E_4F1599QOntov7WT2mPC_Fe7BkGX1DEbkPxioNNqh4Nl0hxxd_M&usqp=CAU" />
-<img align="left" alt="JavaScript" height="26px" src="https://masterprograming.com/wp-content/uploads/2019/03/c-programming-e1536069688313.png" />
 <img align="left" alt="JavaScript" height="26px" src="https://preview.redd.it/31b2ii8hchi31.jpg?auto=webp&s=309fe75e96212cf42c4120ca5adedaef52c41e01" />
 <img align="left" alt="React" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Node.js" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
@@ -32,8 +31,7 @@
 <br />
 <br />
 
->><img align="left" alt="MongoDB" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Git" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+>><img align="left" alt="Git" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" height="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="Unix" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />
