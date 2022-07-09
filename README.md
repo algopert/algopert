@@ -1,4 +1,4 @@
-# 😎 Hi, everyone. What a beautiful day! 👋
+# 😎 Hi, Thanks for your visiting me! 👋
 
 ## 🎈Innovative Computer Science Engineer
 ### 🌱I am a🌱
