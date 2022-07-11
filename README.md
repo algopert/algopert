@@ -10,8 +10,6 @@
 - **Web Automation & Scraping Expert**
 - **Embeded Programmer**
 - **...**
-
-<br />
 <br />
 
 ### 🥇Winner of Regional ICPC 2010🥇
