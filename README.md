@@ -1,4 +1,4 @@
-# A clever person solves a problem. A wise person avoids it.
+# 🤩 A clever person solves a problem. A wise person avoids it.
 
 ## 🤣 But I am a Clever Computer Science Engineer 😂
 
