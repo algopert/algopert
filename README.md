@@ -44,7 +44,6 @@
 
 ## 📫 How to reach me
 
-- **[Telegram]** @GoldenTurtle1013
 - **[Googlechat]** @Grasshopper1013@gmail.com
 
 <br />
