@@ -40,10 +40,4 @@
 <img align="left" alt="Unix" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" />
 <img align="left" alt="JavaScript" height="26px" src="https://img.stackshare.io/service/1214/h5g3etjnacmazg8oq17z.jpeg" />
 <br />
-<br />
 
-## 📫 How to reach me
-
-- **[Googlechat]** @Grasshopper1013@gmail.com
-
-<br />
