@@ -4,15 +4,14 @@
 
 ### 🤔Who am I?🤔
 
-**Along with an exemplary work ethic, I bring hands-on experience in a variety of programming languages.
+**Along with an exemplary work ethic, I bring hands-on experience in a variety of programming languages.**
 
-Having an outstanding ability in developing optimization algorithms and more than 15 years of experience in various software technology and knowledge domains ranging from big scale back-end systems to Android native apps. 
-Throughout my career, I am eager to take on new challenges and have worked on multiple agile teams as a core developer. 
+**Having an outstanding ability in developing optimization algorithms and more than 15 years of experience in various software technology and knowledge domains ranging from big scale back-end systems to Android native apps. 
+Throughout my career, I am eager to take on new challenges and have worked on multiple agile teams as a core developer. **
 
-I am passionate about software, consistently upgrading my skills and staying on top of new technologies. 
+**I am passionate about software, consistently upgrading my skills and staying on top of new technologies. **
 
-I appreciate the importance of high-quality works as well as the need to meet scheduling demands
-**
+**I appreciate the importance of high-quality works as well as the need to meet scheduling demands **
 ### 🥇Winner of Regional ICPC 2009🥇
 
 ## 📚 Languages and Tools:
