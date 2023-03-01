@@ -18,5 +18,5 @@
 ## 📚 Strengths:
 ### Exceptional problem-solving skills and ability to think outside the box
 
-## Let's Connect!
+## 📚 Let's Connect!
 ### Looking for new opportunities to apply my skills and expertise. Let's connect!
