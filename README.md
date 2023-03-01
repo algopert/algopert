@@ -10,7 +10,7 @@
 * ### 🥇 14th place in ACM/ICPC World Finals 2010
 
 ## 💪 Strengths:
-### 🧠 Exceptional problem-solving skills and ability to think outside the box
+* ### 🧠 Exceptional problem-solving skills and ability to think outside the box
 
 ## 📚 Let's Connect!
-### 👀 Looking for new opportunities to apply my skills and expertise. Let's connect!
+* ### 👀 Looking for new opportunities to apply my skills and expertise. Let's connect!
