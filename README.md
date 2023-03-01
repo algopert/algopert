@@ -1,12 +1,9 @@
-# 🤩 A clever person solves a problem. A wise person avoids it.
+# Experienced Software Engineer with a Passion for Optimization Algorithms and Agile Development
 
-## 🤣 But I am a Clever Computer Science Engineer 😂
 
-### 🤔Who am I?🤔
+**As an experienced software engineer, I bring hands-on experience in a variety of programming languages and a strong work ethic to every project. My expertise in developing optimization algorithms and more than 15 years of experience in various software technology and knowledge domains make me a valuable asset to any team.**
 
-**Along with an exemplary work ethic, I bring hands-on experience in a variety of programming languages.**
-
-**Having an outstanding ability in developing optimization algorithms and more than 15 years of experience in various software technology and knowledge domains ranging from big scale back-end systems to Android native apps.**
+**Throughout my career, I have worked on multiple agile teams as a core developer and have a passion for staying on top of new technologies. I am dedicated to delivering high-quality work while meeting scheduling demands.**
 
 **Throughout my career, I am eager to take on new challenges and have worked on multiple agile teams as a core developer.**
 
@@ -14,34 +11,12 @@
 
 **I appreciate the importance of high-quality works as well as the need to meet scheduling demands.**
 
+## 📚 Achievements:
+### 🥇Winner of Regional ICPC 2009
+### 🥇14th place in ACM/ICPC World Finals 2010
 
-### 🥇Winner of Regional ICPC 2009🥇
+## 📚 Strengths:
+### Exceptional problem-solving skills and ability to think outside the box
 
-## 📚 Languages and Tools:
->><img align="left" alt="JavaScript" height="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOcAsDAm2ZrRL_fZ3E_4F1599QOntov7WT2mPC_Fe7BkGX1DEbkPxioNNqh4Nl0hxxd_M&usqp=CAU" />
-<img align="left" alt="JavaScript" height="26px" src="https://preview.redd.it/31b2ii8hchi31.jpg?auto=webp&s=309fe75e96212cf42c4120ca5adedaef52c41e01" />
-<img align="left" alt="React" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Node.js" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="Visual Studio Code" height="26px" src="https://raw.githubusercontent.com/git hub/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="MySQL" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="Deno" height="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" />
-<img align="left" alt="SQL" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<br />
-<br />
-
->><img align="left" alt="Git" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" height="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="Unix" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />
-<img align="left" alt="Unix" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />
-<img align="left" alt="Unix" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />
-<img align="left" alt="Unix" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ios/ios.png" />
-<img align="left" alt="Unix" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
-<img align="left" alt="Unix" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="Unix" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" />
-<img align="left" alt="JavaScript" height="26px" src="https://img.stackshare.io/service/1214/h5g3etjnacmazg8oq17z.jpeg" />
-<br />
-
+## Let's Connect!
+### Looking for new opportunities to apply my skills and expertise. Let's connect!
