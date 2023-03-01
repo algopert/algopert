@@ -5,9 +5,9 @@
 
 **Throughout my career, I have worked on multiple agile teams as a core developer and have a passion for staying on top of new technologies. I am dedicated to delivering high-quality work while meeting scheduling demands.**
 
-\t## 📚 Achievements:
-### 🥇 Winner of Regional ICPC 2009
-### 🥇 14th place in ACM/ICPC World Finals 2010
+## 📚 Achievements:
+* ### 🥇 Winner of Regional ICPC 2009
+* ### 🥇 14th place in ACM/ICPC World Finals 2010
 
 ## 💪 Strengths:
 ### 🧠 Exceptional problem-solving skills and ability to think outside the box
