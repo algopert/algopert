@@ -5,12 +5,6 @@
 
 **Throughout my career, I have worked on multiple agile teams as a core developer and have a passion for staying on top of new technologies. I am dedicated to delivering high-quality work while meeting scheduling demands.**
 
-**Throughout my career, I am eager to take on new challenges and have worked on multiple agile teams as a core developer.**
-
-**I am passionate about software, consistently upgrading my skills and staying on top of new technologies.**
-
-**I appreciate the importance of high-quality works as well as the need to meet scheduling demands.**
-
 ## 📚 Achievements:
 ### 🥇Winner of Regional ICPC 2009
 ### 🥇14th place in ACM/ICPC World Finals 2010
